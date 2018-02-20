@@ -1,6 +1,6 @@
-# noUiSlider
+# csUiSlider
 
-noUiSlider is lightweight JavaScript range slider.
+csUiSlider is lightweight JavaScript range slider.
 
 - **No dependencies**
 - All modern browsers and IE > 9 are supported
@@ -10,7 +10,7 @@ noUiSlider is lightweight JavaScript range slider.
 
 License
 -------
-noUiSlider is licensed [WTFPL](http://www.wtfpl.net/about/). You can use it **for free** and **without any attribution**, in any personal or commercial project. You may also fork the project and re-release it under another license you prefer.
+csUiSlider is licensed [BSD Clause2 Simplified] See license file for info
 
 Documentation
 -------
